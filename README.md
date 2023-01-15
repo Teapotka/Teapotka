@@ -25,3 +25,5 @@ Working in the field of website and web app development for over 1.5 years, I ha
 + :email: tymofii.sukhariev@gmail.com
 + :briefcase: [Linkedin](https://www.linkedin.com/in/tymofii-sukhariev-9630a2244/)
 + :bookmark_tabs: [CV](https://my-cv-app.netlify.app/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teapotka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
