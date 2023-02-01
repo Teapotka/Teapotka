@@ -16,12 +16,15 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <br/>
   <img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" />
   <img src="https://img.shields.io/badge/Antd-grey?logo=antdesign&logoColor=blue" />
+  <img src="https://img.shields.io/badge/MUI-grey?logo=mui&logoColor=blue" />
+  <img src="https://img.shields.io/badge/GraphQL-grey?logo=graphql&logoColor=violet" />
+  <img src="https://img.shields.io/badge/Apollo-grey?logo=apollographql&logoColor=blue" />
   <img src="https://img.shields.io/badge/WordPress-grey?logo=wordpress" />
   <img src="https://img.shields.io/badge/Sass/Scss-grey?logo=sass" />
   <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" />
   <img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=pink" />
+   <br/>
   <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" />
-  <br/>
   <img src="https://img.shields.io/badge/MSSQL-grey?logo=microsoft&logoColor=blue" />
   <img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql" />
   <img src="https://img.shields.io/badge/WebStorm-grey?logo=webstorm" />
