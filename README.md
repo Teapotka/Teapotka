@@ -52,4 +52,7 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <a href="https://www.linkedin.com/in/tymofii-sukhariev-9630a2244/">
   <img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=blue"/>
   </a>
+  <br/>
+  <br/>
+  <a href="https://www.buymeacoffee.com/teapotka" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
