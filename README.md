@@ -1,5 +1,5 @@
 <h2 align="center"> Heya :yellow_heart::blue_heart: </h2>
-My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the field of website and web app development for about 2 years, I have evolved a fertile, groundbreaking and individual approach to each project and a sincere desire to please customers with high-quality work.
+My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the field of website and web app development for about 3 years, I have evolved a fertile, groundbreaking and individual approach to each project and a sincere desire to please customers with high-quality work.
 
 <!-- ## What tools do I work with? -->
 <h2 align="center"> What tools do I work with? </h2>
