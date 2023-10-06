@@ -26,6 +26,7 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <img src="https://img.shields.io/badge/Sass/Scss-grey?logo=sass" />
   <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" />
   <img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=pink" />
+    <img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-grey?logo=figma" />
    <br/>
   <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" />
