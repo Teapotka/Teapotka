@@ -10,6 +10,7 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" />
   <img src="https://img.shields.io/badge/Dart-grey?logo=dart&logoColor=blue" />
    <img src="https://img.shields.io/badge/Flutter-grey?logo=flutter&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Java-grey?logo=openjdk&logoColor=red" />
   <img src="https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs" />
   <img src="https://img.shields.io/badge/React-grey?logo=react" />
   <img src="https://img.shields.io/badge/Redux-grey?logo=redux&logoColor=violet" />
@@ -23,6 +24,7 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <img src="https://img.shields.io/badge/GraphQL-grey?logo=graphql&logoColor=violet" />
   <img src="https://img.shields.io/badge/Apollo-grey?logo=apollographql&logoColor=blue" />
   <img src="https://img.shields.io/badge/WordPress-grey?logo=wordpress" />
+    <img src="https://img.shields.io/badge/PHP-grey?logo=php" />
   <img src="https://img.shields.io/badge/Sass/Scss-grey?logo=sass" />
   <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" />
   <img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=pink" />
@@ -30,6 +32,7 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
     <img src="https://img.shields.io/badge/Figma-grey?logo=figma" />
    <br/>
   <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" />
+    <img src="https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MSSQL-grey?logo=microsoft&logoColor=blue" />
   <img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql" />
   <img src="https://img.shields.io/badge/WebStorm-grey?logo=webstorm&logoColor=black" />
