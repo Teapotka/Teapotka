@@ -8,16 +8,21 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
   <img src="https://img.shields.io/badge/HTML-grey?logo=html5" />
   <img src="https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-grey?logo=javascript" />
+    <img src="https://img.shields.io/badge/Python-grey?logo=python" />
+    <img src="https://img.shields.io/badge/language%20C-grey" />
   <img src="https://img.shields.io/badge/Dart-grey?logo=dart&logoColor=blue" />
    <img src="https://img.shields.io/badge/Flutter-grey?logo=flutter&logoColor=blue" />
     <img src="https://img.shields.io/badge/Java-grey?logo=openjdk&logoColor=red" />
+   <img src="https://img.shields.io/badge/SpringBoot-grey?logo=springboot&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hibernate-grey?logo=hibernate" />
   <img src="https://img.shields.io/badge/NodeJS-grey?logo=nodedotjs" />
   <img src="https://img.shields.io/badge/React-grey?logo=react" />
   <img src="https://img.shields.io/badge/Redux-grey?logo=redux&logoColor=violet" />
+    <br/>
   <img src="https://img.shields.io/badge/Angular-grey?logo=angular&logoColor=red" />
   <img src="https://img.shields.io/badge/Next-grey?logo=nextdotjs&logoColor=black" />
+    <img src="https://img.shields.io/badge/Vue-grey?logo=vuedotjs" />
   <img src="https://img.shields.io/badge/Express-grey?logo=express" />
-  <br/>
   <img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap" />
   <img src="https://img.shields.io/badge/Antd-grey?logo=antdesign&logoColor=blue" />
   <img src="https://img.shields.io/badge/MUI-grey?logo=mui&logoColor=blue" />
@@ -27,22 +32,17 @@ My name is Tymofii Sukhariev and I'm a Full Stack Developer. Working in the fiel
     <img src="https://img.shields.io/badge/PHP-grey?logo=php" />
   <img src="https://img.shields.io/badge/Sass/Scss-grey?logo=sass" />
   <img src="https://img.shields.io/badge/TypeScript-grey?logo=typescript" />
+   <br/>
   <img src="https://img.shields.io/badge/Jest-grey?logo=jest&logoColor=pink" />
     <img src="https://img.shields.io/badge/Cypress-grey?logo=cypress&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-grey?logo=figma" />
-   <br/>
   <img src="https://img.shields.io/badge/MongoDB-grey?logo=mongodb" />
     <img src="https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-grey?logo=microsoft&logoColor=blue" />
   <img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql" />
-  <img src="https://img.shields.io/badge/WebStorm-grey?logo=webstorm&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS Code-grey?logo=visualstudio&logoColor=blue" />
   <img src="https://img.shields.io/badge/Windows-grey?logo=windows&logoColor=blue" />
   <img src="https://img.shields.io/badge/Linux-grey?logo=linux" />
   <img src="https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu" />
-    <img src="https://img.shields.io/badge/Fedora-grey?logo=fedora" />
-      <img src="https://img.shields.io/badge/Debian-grey?logo=debian&logoColor=red" />
-    <img src="https://img.shields.io/badge/Kali-grey?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEYElEQVR4nO1Ze2gcZRD/0lZLq6LVVrH9zweI1iq0UAXxhQ98ICKo+ICCYhEh1SS9m9mgfoi0prZ3M5vE4N7MpmmRqkdRjKgoKAitFMRnBYX6h6hVsL5BBbWezN5tcolBmni5u5X8YOF22W93Zr/fzPxmzrk5zKEx6Nk6dDKQ3oUUP4AsDyFJAEW9rrcwssJlEV0FORFJbwCWArK8jKxlYL0fQ1ntvV/gsobewsiKgPQeYHkeSb5G0teqOxWv9d7Pc1lCZxguzLNciST9wPoVsh4ClqeA5fbubdFSlyXcXC7Ph2LpcmApAcm3wHoYWPYBC24Mo9Nbapz3fgEODS2Z6ugqlBdNvn99FB2FLNcCyU5k+RVZK8DyDrD0BCynzJqhuQFdDix3IskGZPXAQkA6nAQu6YvA8hayfFKlih42w5KD9HckOQikH1hMGI2QhO3rW0YD0gFk/ajqiP5hMePaATg0tCTHw2diMb4CWe9LYoHkVSD5DEn+GnOw5mTqtGU01+7oKpQX5Yq6JmDJI8nuJGONOySuXdBbjE5FLl0PpA8C6Qiw7gGWz5H1x/odAJKfxn/rxy0zuHtbtBSpdBuybEfSLyzjIMm7wPICsuyo8l367ACSJ8wpZH0dST+dQKtQr2oqHbCod1hAJwaRbADSi6EvOn46zwnCeFlAcpNlJmA94Gn7CZPv6dm685iGGe4HB4+1ogShdgYsq1yl0tGI5wLpK7XA3ju54AVhfDayrAvC+JL//CIsyBmN1jv5sHQBkOyvi49DyHqvj6LFE95NeiGSbMKBHSe5tkCl0oEsj/4jvaaBzfKD1Y6gPzorXWIUM9oGrCtba7zRhnVzXU3Ya4kgXyydA/3xeaZ2kfQxZPnQHASSNywJmAQx8Ygkz7XUCVOqY1+eNPo31YqhrAbWXYmWIvkGWd60epKogFbRCUmercmIA96Xjz6yNfHaZEfG6KWRFcTZt3YqY1i/q9Hnkems81G0GFifqa6Vn21H8lS62jUbSPJnzYh1013rvZ8HpC/VBfs+12wg6fc1Cm2eyfqAZdXEjBVf5JqJMRqQHMxt0eNm9AzSXNpbIMn7U/UhswYrSuNSWnfNtHfGYnwaso7WdqLc1KFCNc+ndUCenlx5pxUTrHts7NPcvrtaiR9P64GlVJs3zURf5WZIw4YgT/E1tbY07RP2W9tpEw6XFRgN8mF8C7K8PUHUkXAvlc53WUJVC0l/XbEzer2XTP/aRokeATrDcCGS3JoIvfHW8xeTEPUKNRMAkkut4qbBXuuvn7TBs8tSnCDJJiD5LSC9MRkapJkrSwDSLcDypc2gqhMQHQWSh11W4JPCZRMPHUyv2W5gqBtdVpAb0OWWZuvnqjbdswzmsgJk9fX9RLVXEHJZQRDGy6zwTVaoDZ0jzTaQddTolJ7b7AgKw+e6rCDg+G6bYKTn5kwQ6mUuKwhYVyJp99iFSqWjfkcy8TcWsvS5LANY0GUZGMr6Vtswh/8l/gYUYTHm9KeoSAAAAABJRU5ErkJggg==" />
+  <img src="https://img.shields.io/badge/Debian-grey?logo=debian&logoColor=red" />
 </div>
 
 <h2 align="center"> Stats </h2>
